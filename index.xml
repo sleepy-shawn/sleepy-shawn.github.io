@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Shuai&#39;s blog</title>
+        <link>https://sleepy-shawn.github.io/</link>
+        <description>这是我的博客，欢迎参观、评论</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 29 Jul 2024 17:08:10 &#43;0800</lastBuildDate>
+            <atom:link href="https://sleepy-shawn.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Second_post</title>
+    <link>https://sleepy-shawn.github.io/second_post/</link>
+    <pubDate>Mon, 29 Jul 2024 17:08:10 &#43;0800</pubDate><author>
+        <name>sleepy-shawn</name>
+    </author><guid>https://sleepy-shawn.github.io/second_post/</guid>
+    <description><![CDATA[搞个主页头像搞半天没搞好 目前怀疑是图片格式问题待会儿换成webp试试 我觉得这个post图片没问题，不信你看 hey 先喝杯茶去]]></description>
+</item><item>
+    <title>First_post</title>
+    <link>https://sleepy-shawn.github.io/first_post/</link>
+    <pubDate>Mon, 29 Jul 2024 12:33:02 &#43;0800</pubDate><author>
+        <name>sleepy-shawn</name>
+    </author><guid>https://sleepy-shawn.github.io/first_post/</guid>
+    <description><![CDATA[做个网站真的很难爬坡去摘蒲公英]]></description>
+</item></channel>
+</rss>
