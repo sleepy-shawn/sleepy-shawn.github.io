@@ -2,9 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://sleepy-shawn.github.io/posts/</loc><lastmod>2024-07-29T17:08:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://sleepy-shawn.github.io/posts/</loc><lastmod>2024-08-02T16:32:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://sleepy-shawn.github.io/</loc><lastmod>2024-08-02T16:32:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://sleepy-shawn.github.io/%E9%80%9A%E5%BE%80%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B9%8B%E8%B7%AF/</loc><lastmod>2024-08-02T16:32:33&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://sleepy-shawn.github.io/second_post/</loc><lastmod>2024-07-29T17:08:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://sleepy-shawn.github.io/</loc><lastmod>2024-07-29T17:08:10&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://sleepy-shawn.github.io/first_post/</loc><lastmod>2024-07-29T12:33:02&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://sleepy-shawn.github.io/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://sleepy-shawn.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
