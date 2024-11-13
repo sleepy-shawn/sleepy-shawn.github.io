@@ -1,28 +1,28 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - Shuai&#39;s blog</title>
-        <link>https://sleepy-shawn.github.io/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>所有文章 | Shuai&#39;s blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 02 Aug 2024 16:32:33 &#43;0800</lastBuildDate><atom:link href="https://sleepy-shawn.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>通往大满贯之路</title>
-    <link>https://sleepy-shawn.github.io/%E9%80%9A%E5%BE%80%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B9%8B%E8%B7%AF/</link>
-    <pubDate>Fri, 02 Aug 2024 16:32:33 &#43;0800</pubDate><author>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 13 Nov 2024 22:11:23 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Postscs50ai_conclusion</title>
+    <link>http://localhost:1313/postscs50ai_conclusion/</link>
+    <pubDate>Wed, 13 Nov 2024 22:11:23 &#43;0800</pubDate><author>
         <name>sleepy-shawn</name>
-    </author><guid>https://sleepy-shawn.github.io/%E9%80%9A%E5%BE%80%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B9%8B%E8%B7%AF/</guid>
-    <description><![CDATA[在观看完小胖和纸盒世纪的大战之后的感想 通往大满贯的试炼张继科在伦敦，马龙在里约，都遇到了如此的险境。但小胖的压力还更大些，半区失守，建军节当]]></description>
+    </author><guid>http://localhost:1313/postscs50ai_conclusion/</guid>
+    <description><![CDATA[PROJECT CONCLUSIONThis is my reflection of project codes in reverse order. Attention 引入transformer, Numpy, tensorflow, 深度学习入门； 需要配置http； tokenizer的输出结果为字典，index后转为]]></description>
 </item><item>
-    <title>Second_post</title>
-    <link>https://sleepy-shawn.github.io/second_post/</link>
-    <pubDate>Mon, 29 Jul 2024 17:08:10 &#43;0800</pubDate><author>
+    <title>Thanks</title>
+    <link>http://localhost:1313/thanks/</link>
+    <pubDate>Thu, 15 Aug 2024 00:30:46 &#43;0800</pubDate><author>
         <name>sleepy-shawn</name>
-    </author><guid>https://sleepy-shawn.github.io/second_post/</guid>
-    <description><![CDATA[搞个主页头像搞半天没搞好 目前怀疑是图片格式问题待会儿换成webp试试 我觉得这个post图片没问题，不信你看 hey 先喝杯茶去]]></description>
+    </author><guid>http://localhost:1313/thanks/</guid>
+    <description><![CDATA[Thanks 向wjc致谢如果没有wjc的好工具，我接触到如此广阔知识的世界还要等好久。 向sjw和xjy致谢他们真诚的给我提供了转码和出国的建议。 向小红]]></description>
 </item><item>
-    <title>First_post</title>
-    <link>https://sleepy-shawn.github.io/first_post/</link>
-    <pubDate>Mon, 29 Jul 2024 12:33:02 &#43;0800</pubDate><author>
+    <title>心情郁闷&#43;吐槽专业</title>
+    <link>http://localhost:1313/%E5%BF%83%E6%83%85%E9%83%81%E9%97%B7-%E5%90%90%E6%A7%BD%E4%B8%93%E4%B8%9A/</link>
+    <pubDate>Sat, 10 Aug 2024 13:59:43 &#43;0800</pubDate><author>
         <name>sleepy-shawn</name>
-    </author><guid>https://sleepy-shawn.github.io/first_post/</guid>
-    <description><![CDATA[做个网站真的很难爬坡去摘蒲公英]]></description>
+    </author><guid>http://localhost:1313/%E5%BF%83%E6%83%85%E9%83%81%E9%97%B7-%E5%90%90%E6%A7%BD%E4%B8%93%E4%B8%9A/</guid>
+    <description><![CDATA[心情郁闷 吐槽专业这几天看小红书、知乎看的愈发郁闷，遂来吐槽专业，同时也是勉励自己去克服懈怠、努力出坑😓 心情郁闷 吐槽专业 粗俗的语言 理性的语言 最]]></description>
 </item></channel>
 </rss>
