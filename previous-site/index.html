@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuai Ge - SUFE</title>
+    <meta name="description" content="Shuai Ge - M.Sc. Student at Shanghai University of Finance and Economics">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="nav-container">
+        <a class="nav-brand" href="#">
+          <span class="brand-name">Shuai Ge</span>
+        </a>
+        <button class="nav-toggle" aria-label="Toggle navigation">
+          <i class="fas fa-bars"></i>
+        </button>
+        <ul class="nav-links">
+          <li><a href="#about" class="active">About</a></li>
+          <li><a href="#publications">Publications</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="page-content">
+      <div class="container">
+
+        <section id="about" class="profile-section">
+          <div class="profile-left">
+            <figure class="profile-photo-wrapper">
+              <img src="./assets/photos/profile.jpg" alt="Shuai Ge" class="profile-photo">
+            </figure>
+            <div class="profile-info">
+              <h1 class="profile-name">Shuai Ge <span class="cn">葛帅</span></h1>
+              <p class="profile-title">M.Sc. Student</p>
+              <p class="profile-affiliation">
+                <a href="https://www.sufe.edu.cn/" target="_blank">Shanghai University of Finance and Economics</a>
+              </p>
+              <p class="profile-email">
+                ggshawn22 [at] gmail.com
+              </p>
+              <div class="social-links">
+                <a href="mailto:ggshawn22@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+                <a href="https://github.com/sleepy-shawn" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="profile-right">
+            <p>
+              I am a Master's student in Computer Science and Technology at
+              <a href="https://www.sufe.edu.cn/" target="_blank">Shanghai University of Finance and Economics (SUFE)</a>,
+              where I am fortunate to be advised by
+              <a href="https://heshuting555.github.io/" target="_blank">Asst. Prof. Shuting He</a>.
+              I am a member of the
+              <a href="https://sigma-sufe.github.io/" target="_blank">SIGMA Lab</a>.
+            </p>
+            <p>
+              My research interests lie in computer vision.
+            </p>
+          </div>
+        </section>
+
+        <div class="divider"></div>
+
+        <section id="publications" class="publications-section">
+          <h2>Publications</h2>
+          <p class="empty-note">Coming soon.</p>
+        </section>
+
+      </div>
+    </div>
+
+    <footer class="footer">
+      <div class="container">
+        <p>&copy; 2025 Shuai Ge. Powered by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.</p>
+      </div>
+    </footer>
+
+    <script>
+      document.querySelector('.nav-toggle').addEventListener('click', function() {
+        document.querySelector('.nav-links').classList.toggle('open');
+      });
+    </script>
+  </body>
+</html>
